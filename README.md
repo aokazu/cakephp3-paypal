@@ -1,4 +1,10 @@
-# Paypal Plugin for CakePHP 2.x
+# It is under construction. #
+
+I started an attempt to change it for CakePHP 3.6. I have only just started.
+Therefore, it will not work yet.
+
+# Paypal Plugin for CakePHP 3.6
+
 
 [![Build Status](https://secure.travis-ci.org/robmcvey/cakephp-paypal.png?branch=master)](https://travis-ci.org/robmcvey/cakephp-paypal)
 
